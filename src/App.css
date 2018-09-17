@@ -1,0 +1,17 @@
+.titlebar{
+  background-color: #90EE90;
+  display: block;
+  color: #fff;
+  padding-left: 16px;
+   
+}
+
+.App {
+  text-align: center;
+}
+table,tr{
+  width: 100%;
+  display: block;
+  align-items: center;
+  align-items: flex-end;
+}
