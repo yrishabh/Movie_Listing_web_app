@@ -4,12 +4,7 @@
 
 ![ss1](https://user-images.githubusercontent.com/29474981/45607971-95123480-ba6d-11e8-8d71-a72580f2e79e.jpg)
 
-![ss2](https://user-images.githubusercontent.com/29474981/45607972-96dbf800-ba6d-11e8-920f-7ba160ad56b6.png)
-
-
-
-
-
+![ss3](https://user-images.githubusercontent.com/29474981/45608080-3f8a5780-ba6e-11e8-827c-11fd8dc3324c.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
