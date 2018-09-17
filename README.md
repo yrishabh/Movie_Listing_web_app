@@ -1,3 +1,16 @@
+<h1>Movie Listing Web APP using React.js & MovieDB-API</h1>
+
+<h2>Project Screen Shot</h2>
+
+![ss1](https://user-images.githubusercontent.com/29474981/45607971-95123480-ba6d-11e8-8d71-a72580f2e79e.jpg)
+
+![ss2](https://user-images.githubusercontent.com/29474981/45607972-96dbf800-ba6d-11e8-920f-7ba160ad56b6.png)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
